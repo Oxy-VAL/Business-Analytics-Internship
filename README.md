@@ -1,3 +1,15 @@
+# RetailIQ
+
+A unified Business Analytics platform developed during the ELiteTech Business Analytics Internship.
+
+RetailIQ integrates four analytical modules into a single decision-support system:
+
+- Product Recommendation Engine
+- Pricing Advisor
+- Customer Insight Engine
+- Inventory Recommendation Engine
+
+
 # RetailIQ - Intelligent Retail Business Analytics Platform
 
 > Business Analytics Internship Project | ELiteTech Intern
